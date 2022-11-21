@@ -1,3 +1,2 @@
-# Point: Free Landing Page Template from Uisual
-
-![Point Preview](https://res.cloudinary.com/uisual/image/upload/assets/screenshots/point.png)
+The laboratory - x
+An online space to test, display and share HTML, CSS and JavaScript code snippets created by a digital hobbyist.
